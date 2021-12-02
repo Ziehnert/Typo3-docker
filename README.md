@@ -6,7 +6,7 @@ Optimized for fast setup, using SQlite and automatic setup
 
 **DO NOT USE THIS IN A PRODUCTIVE ENVIRONMENT**
 
-##Setup
+## Setup
 
 ```
 git clone https://github.com/Ziehnert/Typo3-docker
